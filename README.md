@@ -1,6 +1,6 @@
 # Cimos
 
-Cimos is a framework for **C**ost-effective **i**ndex-based **m**ulti-query **o**riented continuous **s**ubgraph matching.  
+Cimos is a framework for **<u>C<u/>**ost-effective **<u>i</u>**ndex-based **<u>m</u>**ulti-query **<u>o</u>**riented continuous **<u>s</u>**ubgraph matching.  
 
 ## Build Cimos
 
@@ -10,7 +10,7 @@ Cimos needs C++ support only.
 - Linux system.
 - CMake $\geq$ 3.13.1.
 
-Clone Cimos and install necessary dependencies first with following commands.
+Clone Cimos and compile it with following commands.
 
 ```
 $ git clone https://github.com/CrankyLover/Cimos.git
@@ -18,8 +18,8 @@ $ cd Cimos
 $ make
 ```
 
-## Run Aquila
-The following command can be executed to run Aquila.
+## Run Cimos
+The following command can be executed to run Cimos.
 ```
 $ build/csm -q <query_folder_path> -d <data_graph_file_path> -u <update_stream_file_path>
 ```
