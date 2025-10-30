@@ -1,6 +1,6 @@
 # Cimos
 
-Cimos is a framework for **<u>C<u/>**ost-effective **<u>i</u>**ndex-based **<u>m</u>**ulti-query **<u>o</u>**riented continuous **<u>s</u>**ubgraph matching.  
+Cimos is a framework for <u>**C**</u>ost-effective <u>**i**</u>ndex-based <u>**m**</u>ulti-query <u>**o**</u>riented continuous <u>**s**</u>ubgraph matching.
 
 ## Build Cimos
 
